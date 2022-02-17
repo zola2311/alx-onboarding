@@ -1,0 +1,5 @@
+result=0
+input_one=INPUT(“Enter the first number”)
+input_two=INPUT(“Enter the second number”)
+  result=(( input_one* input_one)+( input_two* input_two))
+OUTPUT result
